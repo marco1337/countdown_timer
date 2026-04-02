@@ -1,0 +1,1 @@
+ g++ -o my_timer.exe main.cpp -I include -L lib -lraylib -lgdi32 -lwinmm -mwindows
